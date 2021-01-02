@@ -1,0 +1,13 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\bin\Debug\Buttons.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\bin\Debug\Buttons.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\bin\Debug\Buttons.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\Buttons.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\MainWindow.baml
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\MainWindow.g.cs
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\App.g.cs
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\Buttons_MarkupCompile.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\Buttons.g.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\Buttons.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\Buttons.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\Buttons.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\WPF\Buttons\Buttons\obj\Debug\Buttons.pdb

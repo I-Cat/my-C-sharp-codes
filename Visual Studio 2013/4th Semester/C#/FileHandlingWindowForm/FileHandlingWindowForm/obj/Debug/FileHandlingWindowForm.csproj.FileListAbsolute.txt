@@ -1,0 +1,10 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\bin\Debug\FileHandlingWindowForm.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\bin\Debug\FileHandlingWindowForm.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\bin\Debug\FileHandlingWindowForm.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\obj\Debug\FileHandlingWindowForm.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\obj\Debug\FileHandlingWindowForm.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\obj\Debug\FileHandlingWindowForm.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\obj\Debug\FileHandlingWindowForm.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\obj\Debug\FileHandlingWindowForm.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\obj\Debug\FileHandlingWindowForm.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandlingWindowForm\FileHandlingWindowForm\bin\Debug\Bunifu_UI_v1.52.dll

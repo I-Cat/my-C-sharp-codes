@@ -1,0 +1,9 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\MedicalStore\MedicalStore\bin\Debug\MedicalStore.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\MedicalStore\MedicalStore\bin\Debug\MedicalStore.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\MedicalStore\MedicalStore\bin\Debug\MedicalStore.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\MedicalStore\MedicalStore\obj\Debug\MedicalStore.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\MedicalStore\MedicalStore\obj\Debug\MedicalStore.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\MedicalStore\MedicalStore\obj\Debug\MedicalStore.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\MedicalStore\MedicalStore\obj\Debug\MedicalStore.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\MedicalStore\MedicalStore\obj\Debug\MedicalStore.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\MedicalStore\MedicalStore\obj\Debug\MedicalStore.pdb

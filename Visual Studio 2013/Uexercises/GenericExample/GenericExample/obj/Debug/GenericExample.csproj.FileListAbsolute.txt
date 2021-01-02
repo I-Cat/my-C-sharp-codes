@@ -1,0 +1,6 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\GenericExample\GenericExample\bin\Debug\GenericExample.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\GenericExample\GenericExample\obj\Debug\GenericExample.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\GenericExample\GenericExample\bin\Debug\GenericExample.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\GenericExample\GenericExample\bin\Debug\GenericExample.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\GenericExample\GenericExample\obj\Debug\GenericExample.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\GenericExample\GenericExample\obj\Debug\GenericExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\Lab10\Lab10\obj\Debug\Lab10.pdb

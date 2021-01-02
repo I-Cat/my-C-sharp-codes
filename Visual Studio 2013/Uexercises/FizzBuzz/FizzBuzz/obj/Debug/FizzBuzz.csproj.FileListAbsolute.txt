@@ -1,0 +1,6 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

@@ -1,0 +1,17 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\helloEorldiOS.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\helloEorldiOS.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\helloEorld.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\helloEorld.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\helloEorld.dll.mdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\obj\iPhoneSimulator\Debug\helloEorldiOS.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\obj\iPhoneSimulator\Debug\helloEorldiOS.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\obj\iPhoneSimulator\Debug\helloEorldiOS.exe.mdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\helloEorld\helloEorld\helloEorld.iOS\bin\iPhoneSimulator\Debug\helloEorldiOS.exe.mdb

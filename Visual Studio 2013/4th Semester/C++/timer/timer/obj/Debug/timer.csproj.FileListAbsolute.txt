@@ -1,0 +1,8 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\timer\timer\bin\Debug\timer.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\timer\timer\bin\Debug\timer.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\timer\timer\bin\Debug\timer.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\timer\timer\obj\Debug\timer.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\timer\timer\obj\Debug\timer.pdb

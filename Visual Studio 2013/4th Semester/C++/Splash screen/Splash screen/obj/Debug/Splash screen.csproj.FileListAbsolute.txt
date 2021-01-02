@@ -1,0 +1,11 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\bin\Debug\Splash screen.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\obj\Debug\Splash screen.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\obj\Debug\Splash_screen.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\obj\Debug\Splash_screen.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\obj\Debug\Splash_screen.Splash.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\obj\Debug\Splash screen.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\bin\Debug\Splash screen.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\bin\Debug\Splash screen.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\obj\Debug\Splash screen.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Splash screen\Splash screen\obj\Debug\Splash screen.pdb

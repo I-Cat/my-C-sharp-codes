@@ -1,0 +1,10 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\bin\Debug\SlidingPanel.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\bin\Debug\SlidingPanel.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\bin\Debug\SlidingPanel.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\obj\Debug\SlidingPanel.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\obj\Debug\SlidingPanel.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\obj\Debug\SlidingPanel.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\obj\Debug\SlidingPanel.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\obj\Debug\SlidingPanel.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\obj\Debug\SlidingPanel.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\SlidingPanel\SlidingPanel\bin\Debug\Bunifu_UI_v1.52.dll

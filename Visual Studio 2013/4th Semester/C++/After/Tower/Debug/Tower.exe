@@ -1,0 +1,1043 @@
+gned Active XControl">SecuritySetting_DownloadSignedActiveXControl</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                                <Property name="Download Unsigned ActiveX Controls" category="SysInfo">
+                                    <Description>Download Unsigned ActiveX Controls</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Download Unsigned Active XControl">SecuritySetting_DownloadUnsignedActiveXControl</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                                <Property name="Run ActiveX Controls and Plugins" category="SysInfo">
+                                    <Description>Run ActiveX Controls and Plugins</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Run Active XControl And Plugins">SecuritySetting_RunActiveXControlAndPlugins</Key>
+                                    <Value>Automatic Logon with Username and Password</Value>
+                                </Property>
+                                <Property name="Automatic Prompting For ActiveX Controls" category="SysInfo">
+                                    <Description>Automatic Prompting For ActiveX Controls</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Automatic Prompting For Active XControls">SecuritySetting_AutomaticPromptingForActiveXControls</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                                <Property name="Allow Meta Refresh" category="SysInfo">
+                                    <Description>Allow Meta Refresh</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Allow Meta Refresh">SecuritySetting_AllowMetaRefresh</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                                <Property name="Script ActiveX Controls Marked As Safe For Scripting" category="SysInfo">
+                                    <Description>Script ActiveX Controls Marked As Safe For Scripting</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Script Active XControls Marked As Safe For Scripting">SecuritySetting_ScriptActiveXControlsMarkedAsSafeForScripting</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                            </Property>
+                            <Property name="Browser Security Level" category="SysInfo">
+                                <Description>Browser Security Level</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Browser Security Level">BrowserSecurityLevel</Key>
+                                <Value>Unknown</Value>
+                            </Property>
+                            <Property name="Internal: DeviceUID" category="Internal">
+                                <Description>[N/A]</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Device UID">DeviceUID</Key>
+                                <Value>WebBrowser:IE:11.0.9600.17107</Value>
+                            </Property>
+                            <Property name="Internal: ModelUID" category="Internal">
+                                <Description>[N/A]</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Model UID">ModelUID</Key>
+                                <Value>WebBrowser:IE</Value>
+                            </Property>
+                        </Device>
+                        <Device index="80">
+                            <LocationUID></LocationUID>
+                            <DeviceUID>WebBrowser:CHROME:81.0.4000.3</DeviceUID>
+                            <Name>Google Chrome</Name>
+                            <Description>Web Browser</Description>
+                            <GUID>WebBrowser:2WebBrowser:2</GUID>
+                            <OS_Locator>WebBrowser:2</OS_Locator>
+                            <HW_Locator>WebBrowser:2</HW_Locator>
+                            <DeviceType icon="installed_programs">WebBrowser</DeviceType>
+                            <BusType deprecated="true" />
+                            <Capability icon="installed_programs">Software</Capability>
+                            <Capability icon="security">Security</Capability>
+                            <Capability icon="installed_programs">WebBrowser</Capability>
+                            <Property name="Internal: BrowserType" category="SysInfo|RequiredForEnumeration|RequiredForTests|Internal">
+                                <Description>[N/A]</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Browser Type">BrowserType</Key>
+                                <Value>CHROME</Value>
+                            </Property>
+                            <Property name="Internal: BrowserPath" category="SysInfo|Internal">
+                                <Description>[N/A]</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Browser Path">BrowserPath</Key>
+                                <Value>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</Value>
+                            </Property>
+                            <Property name="Internal: BrowserPathArguments" category="SysInfo|Internal">
+                                <Description>[N/A]</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Browser Path Arguments">BrowserPathArguments</Key>
+                                <Value></Value>
+                            </Property>
+                            <Property name="Browser Version" category="SysInfo">
+                                <Description>Browser Version</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Browser Version">BrowserVersion</Key>
+                                <Value>81.0.4000.3</Value>
+                            </Property>
+                            <Property name="Is Default Browser" category="SysInfo">
+                                <Description>Is Default Browser</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>BOOLEAN</DataType>
+                                <Key displayName="Default Browser">DefaultBrowser</Key>
+                                <Value>false</Value>
+                            </Property>
+                            <Property name="Security Settings" category="SysInfo|Group">
+                                <Description>Security Settings</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Security Settings Group">SecuritySettingsGroup</Key>
+                                <Value></Value>
+                                <Property name="Java Scripts" category="SysInfo">
+                                    <Description>Java Scripts</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Java Scripts">SecuritySetting_JavaScripts</Key>
+                                    <Value>Enabled</Value>
+                                </Property>
+                                <Property name="Pop Up Blocker" category="SysInfo">
+                                    <Description>Pop Up Blocker</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Pop Up Blocker">SecuritySetting_PopUpBlocker</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                                <Property name="Cookies" category="SysInfo">
+                                    <Description>Cookies</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Cookies">SecuritySetting_Cookies</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                                <Property name="View Mixed Content" category="SysInfo">
+                                    <Description>View Mixed Content</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_View Mixed Content">SecuritySetting_ViewMixedContent</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                                <Property name="Client Certificate" category="SysInfo">
+                                    <Description>Client Certificate</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Client Certificate">SecuritySetting_ClientCertificate</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                                <Property name="Java Permissions" category="SysInfo">
+                                    <Description>Java Permissions</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Java Permissions">SecuritySetting_JavaPermissions</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                                <Property name="Item Or File Downloads" category="SysInfo">
+                                    <Description>Item Or File Downloads</Description>
+                                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                    <DataType>STRING</DataType>
+                                    <Key displayName="Security Setting_Item Or File Downloads">SecuritySetting_ItemOrFileDownloads</Key>
+                                    <Value>Unknown</Value>
+                                </Property>
+                            </Property>
+                            <Property name="Internal: DeviceUID" category="Internal">
+                                <Description>[N/A]</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Device UID">DeviceUID</Key>
+                                <Value>WebBrowser:CHROME:81.0.4000.3</Value>
+                            </Property>
+                            <Property name="Internal: ModelUID" category="Internal">
+                                <Description>[N/A]</Description>
+                                <SourceModule>pcdrsysinfosoftware</SourceModule>
+                                <DataType>STRING</DataType>
+                                <Key displayName="Model UID">ModelUID</Key>
+                                <Value>WebBrowser:CHROME</Value>
+                            </Property>
+                        </Device>
+                    </Device>
+                </Device>
+                <Device index="428">
+                    <LocationUID></LocationUID>
+                    <DeviceUID></DeviceUID>
+                    <Name>Spyware Scanners</Name>
+                    <Description>Software</Description>
+                    <GUID>OS:SpywareScannersOS:SpywareScanners</GUID>
+                    <OS_Locator>OS:SpywareScanners</OS_Locator>
+                    <HW_Locator>OS:SpywareScanners</HW_Locator>
+                    <DeviceType icon="installed_programs">Software</DeviceType>
+                    <BusType deprecated="true" />
+                    <Capability icon="installed_programs">Software</Capability>
+                    <ChildBusID>SpywareScanner</ChildBusID>
+                    <Device index="425">
+                        <LocationUID></LocationUID>
+                        <DeviceUID></DeviceUID>
+                        <Name>Windows Defender</Name>
+                        <Description>Spyware Scanner</Description>
+                        <GUID>SpywareScanner:0SpywareScanner:0</GUID>
+                        <OS_Locator>SpywareScanner:0</OS_Locator>
+                        <HW_Locator>SpywareScanner:0</HW_Locator>
+                        <DeviceType icon="Unknown">SpywareScanner</DeviceType>
+                        <BusType deprecated="true" />
+                        <Capability icon="installed_programs">Software</Capability>
+                        <Capability icon="security">Security</Capability>
+                        <Capability icon="Unknown">SpywareScanner</Capability>
+                        <Property name="Product Name" category="SysInfo">
+                            <Description>Product Name</Description>
+                            <SourceModule>pcdrsysinfosoftware</SourceModule>
+                            <DataType>STRING</DataType>
+                            <Key displayName="Display Name">DisplayName</Key>
+                            <Value>Windows Defender</Value>
+                        </Property>
+                        <Property name="Internal: ModelUID" category="Internal">
+                            <Description>[N/A]</Description>
+                            <SourceModule>pcdrsysinfosoftware</SourceModule>
+                            <DataType>STRING</DataType>
+                            <Key displayName="Model UID">ModelUID</Key>
+                            <Value>SpywareScanner:Windows Defender</Value>
+                        </Property>
+                        <Property name="Program Enabled" category="SysInfo">
+                            <Description>Program Enabled</Description>
+                            <SourceModule>pcdrsysinfosoftware</SourceModule>
+                            <DataType>BOOLEAN</DataType>
+                            <Key displayName="Program Enabled">ProgramEnabled</Key>
+                            <Value>true</Value>
+                        </Property>
+                        <Property name="Program Up To Date" category="SysInfo">
+                            <Description>Program Up To Date</Description>
+                            <SourceModule>pcdrsysinfosoftware</SourceModule>
+                            <DataType>BOOLEAN</DataType>
+                            <Key displayName="Program Up To Date">ProgramUpToDate</Key>
+                            <Value>true</Value>
+                        </Property>
+                        <Property name="Program Executable Path" category="SysInfo">
+                            <Description>The path to the program executable.</Description>
+                            <SourceModule>pcdrsysinfosoftware</SourceModule>
+                            <DataType>STRING</DataType>
+                            <Key displayName="Program Exe Path">ProgramExePath</Key>
+                            <Value>%ProgramFiles%\Windows Defender\MSASCui.exe</Value>
+                        </Property>
+                    </Device>
+                </Device>
+                <Device index="78">
+                    <LocationUID></LocationUID>
+                    <DeviceUID>OperatingSystem:StartupSettings</DeviceUID>
+                    <Name>Windows Startup Settings</Name>
+                    <Description>Operating System</Description>
+                    <GUID>OS:Startup SettingsOS:HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run</GUID>
+                    <OS_Locator>OS:HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run</OS_Locator>
+                    <HW_Locator>OS:Startup Settings</HW_Locator>
+                    <DeviceType icon="computer_system_mini_tower">OperatingSystem</DeviceType>
+                    <BusType deprecated="true" />
+                    <Capability icon="computer_system_mini_tower">OperatingSystem</Capability>
+                    <Capability icon="security">Security</Capability>
+                    <Capability icon="installed_programs">Software</Capability>
+                    <Property name="Windows Startup Programs" category="SysInfo">
+                        <Description>Windows Startup Programs</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>STRINGARRAY</DataType>
+                        <Key displayName="Startup Process Info">StartupProcessInfo</Key>
+                        <Value>RTHDVCPL : &quot;C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe&quot; -s</Value>
+                        <Value>RtHDVBg : &quot;C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe&quot; /MAXX5REC</Value>
+                        <Value>WavesSvc : &quot;C:\Program Files\Realtek\Audio\HDA\WavesSvc64.exe&quot;</Value>
+                        <Value>QuickSet : c:\Program Files\Dell\QuickSet\QuickSet.exe</Value>
+                        <Value>IgfxTray : &quot;C:\Windows\system32\igfxtray.exe&quot;</Value>
+                        <Value>Dropbox : &quot;C:\Program Files (x86)\Dropbox\Client\Dropbox.exe&quot; /systemstartup</Value>
+                        <Value>htfb : C:\Program Files (x86)\HT\FB\htfbl.exe /STARTUP</Value>
+                        <Value>SunJavaUpdateSched : &quot;C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe&quot;</Value>
+                    </Property>
+                    <Property name="Internal: DeviceUID" category="Internal">
+                        <Description>[N/A]</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Device UID">DeviceUID</Key>
+                        <Value>OperatingSystem:StartupSettings</Value>
+                    </Property>
+                    <Property name="Internal: ModelUID" category="Internal">
+                        <Description>[N/A]</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Model UID">ModelUID</Key>
+                        <Value>OperatingSystem:StartupSettings</Value>
+                    </Property>
+                </Device>
+                <Device index="431">
+                    <LocationUID></LocationUID>
+                    <DeviceUID></DeviceUID>
+                    <Name>Windows Update</Name>
+                    <Description>Windows Update</Description>
+                    <GUID>OS:WindowsUpdateOS:WindowsUpdate</GUID>
+                    <OS_Locator>OS:WindowsUpdate</OS_Locator>
+                    <HW_Locator>OS:WindowsUpdate</HW_Locator>
+                    <DeviceType icon="Unknown">WindowsUpdate</DeviceType>
+                    <BusType deprecated="true" />
+                    <Capability icon="Unknown">WindowsUpdate</Capability>
+                    <Capability icon="security">Security</Capability>
+                    <Capability icon="installed_programs">Software</Capability>
+                    <Property name="Internal: AutoUpdateOptionNumeric" category="SysInfo|Internal">
+                        <Description>[N/A]</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>UINT32</DataType>
+                        <Key displayName="Auto Update Option Numeric">AutoUpdateOptionNumeric</Key>
+                        <Value>1</Value>
+                    </Property>
+                    <Property name="Automatic Updates" category="SysInfo|Summary|Tier1">
+                        <Description>Automatic Updates</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Auto Update Option">AutoUpdateOption</Key>
+                        <Value>Disabled</Value>
+                    </Property>
+                    <Property name="Last checked" category="SysInfo|Summary|Tier1">
+                        <Description>Last checked</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Last Sync">LastSync</Key>
+                        <Value>2019-12-08 10:00:12</Value>
+                    </Property>
+                    <Property name="Internal: ModelUID" category="Internal">
+                        <Description>[N/A]</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Model UID">ModelUID</Key>
+                        <Value>WindowsUpdate:0</Value>
+                    </Property>
+                </Device>
+                <Device index="432">
+                    <LocationUID></LocationUID>
+                    <DeviceUID>RootSystemRestorePoints</DeviceUID>
+                    <Name>System Restore Points</Name>
+                    <Description>System Restore Points</Description>
+                    <GUID>RootSystemRestorePointsRootSystemRestorePoints</GUID>
+                    <OS_Locator>RootSystemRestorePoints</OS_Locator>
+                    <HW_Locator>RootSystemRestorePoints</HW_Locator>
+                    <DeviceType icon="backup">SystemRestorePoints</DeviceType>
+                    <BusType deprecated="true" />
+                    <Capability icon="installed_programs">Software</Capability>
+                    <Capability icon="backup">SystemRestorePoints</Capability>
+                    <ChildBusID>SystemRestorePoint</ChildBusID>
+                    <Property name="System Restore Enabled" category="SysInfo|Tier1">
+                        <Description>System Restore Enabled</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>BOOLEAN</DataType>
+                        <Key displayName="System Restore Points_System Restore Enabled">SystemRestorePoints_SystemRestoreEnabled</Key>
+                        <Value>true</Value>
+                    </Property>
+                    <Property name="Internal: SystemRestorePoints_SystemRestoreScanned" category="SysInfo|Internal">
+                        <Description>[N/A]</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>BOOLEAN</DataType>
+                        <Key displayName="System Restore Points_System Restore Scanned">SystemRestorePoints_SystemRestoreScanned</Key>
+                        <Value>false</Value>
+                    </Property>
+                    <Property name="Internal: SystemRestorePoints_LastRestorePointTime" category="Internal">
+                        <Description>[N/A]</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="System Restore Points_Last Restore Point Time">SystemRestorePoints_LastRestorePointTime</Key>
+                        <Value></Value>
+                    </Property>
+                    <Property name="Internal: ModelUID" category="Internal">
+                        <Description>[N/A]</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Model UID">ModelUID</Key>
+                        <Value>RootSystemRestorePoints</Value>
+                    </Property>
+                    <Property name="Internal: DeviceUID" category="Internal">
+                        <Description>[N/A]</Description>
+                        <SourceModule>pcdrsysinfosoftware</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Device UID">DeviceUID</Key>
+                        <Value>RootSystemRestorePoints</Value>
+                    </Property>
+                </Device>
+            </Device>
+            <Device index="434">
+                <LocationUID></LocationUID>
+                <DeviceUID></DeviceUID>
+                <Name>File History</Name>
+                <Description>File History</Description>
+                <GUID>SW:OS:FileHistorySW:OS:FileHistory</GUID>
+                <OS_Locator>SW:OS:FileHistory</OS_Locator>
+                <HW_Locator>SW:OS:FileHistory</HW_Locator>
+                <DeviceType icon="Unknown">WindowsBackup</DeviceType>
+                <BusType deprecated="true" />
+                <Capability icon="Unknown">WindowsBackup</Capability>
+                <Capability icon="security">Security</Capability>
+                <Capability icon="installed_programs">Software</Capability>
+                <Property name="Backup Status" category="SysInfo|Tier3">
+                    <Description>Backup Status</Description>
+                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="File History Backup Status">FileHistoryBackupStatus</Key>
+                    <Value>Disabled</Value>
+                </Property>
+                <Property name="Internal: FileHistoryBackupStatusNumeric" category="SysInfo|Internal|Tier3">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                    <DataType>UINT32</DataType>
+                    <Key displayName="File History Backup Status Numeric">FileHistoryBackupStatusNumeric</Key>
+                    <Value>0</Value>
+                </Property>
+            </Device>
+            <Device index="435">
+                <LocationUID></LocationUID>
+                <DeviceUID></DeviceUID>
+                <Name>Windows Backup and Restore</Name>
+                <Description>Windows Backup and Restore</Description>
+                <GUID>SW:OS:WindowsBackupWindows Backup and Restore</GUID>
+                <OS_Locator>Windows Backup and Restore</OS_Locator>
+                <HW_Locator>SW:OS:WindowsBackup</HW_Locator>
+                <DeviceType icon="Unknown">WindowsBackup</DeviceType>
+                <BusType deprecated="true" />
+                <Capability icon="Unknown">WindowsBackup</Capability>
+                <Capability icon="security">Security</Capability>
+                <Capability icon="installed_programs">Software</Capability>
+            </Device>
+            <Device index="20">
+                <LocationUID></LocationUID>
+                <DeviceUID></DeviceUID>
+                <Name>Dell Touchpad</Name>
+                <Description>Mouse</Description>
+                <GUID>SynapticsInputDevice:0SynapticsInputDevice:0</GUID>
+                <OS_Locator>SynapticsInputDevice:0</OS_Locator>
+                <HW_Locator>SynapticsInputDevice:0</HW_Locator>
+                <DeviceType icon="mouse">Mouse</DeviceType>
+                <BusType deprecated="true" />
+                <Capability icon="mouse">Mouse</Capability>
+                <Capability icon="Unknown">SynapticsMouse</Capability>
+                <Capability icon="Unknown">SynapticsTouchPad</Capability>
+                <Property name="Device ID" category="SysInfo|Tier3">
+                    <Description>Device ID</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Device ID">DeviceID</Key>
+                    <Value>HID\DLL0651&amp;COL01\5&amp;3A8FEC2A&amp;0&amp;0000</Value>
+                </Property>
+                <Property name="Internal: DeviceInstanceID" category="SysInfo|Key|Internal">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Device Instance ID">DeviceInstanceID</Key>
+                    <Value>HID\DLL0651&amp;COL01\5&amp;3A8FEC2A&amp;0&amp;0000</Value>
+                </Property>
+                <Property name="Class" category="SysInfo|Tier1">
+                    <Description>Class</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Class">Class</Key>
+                    <Value>Mouse</Value>
+                </Property>
+                <Property name="Device Description" category="SysInfo|RequiredForTests|Tier1">
+                    <Description>Device Description</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Description">Description</Key>
+                    <Value>Dell Touchpad</Value>
+                </Property>
+                <Property name="Enumerator" category="SysInfo|Tier2">
+                    <Description>Enumerator</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Enumerator">Enumerator</Key>
+                    <Value>HID</Value>
+                </Property>
+                <Property name="Manufacturer" category="SysInfo|Summary|Profile">
+                    <Description>Manufacturer</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Manufacturer">Manufacturer</Key>
+                    <Value>Synaptics</Value>
+                </Property>
+                <Property name="Object Name" category="SysInfo|Tier2">
+                    <Description>Object Name</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Object Name">ObjectName</Key>
+                    <Value>\Device\0000003f</Value>
+                </Property>
+                <Property name="Service" category="SysInfo|Tier1">
+                    <Description>Service</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Service">Service</Key>
+                    <Value>mouhid</Value>
+                </Property>
+                <Property name="Driver" category="SysInfo|Group">
+                    <Description>Driver</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Driver Group">DriverGroup</Key>
+                    <Value></Value>
+                    <Property name="Driver" category="SysInfo|RequiredForTests|Tier1">
+                        <Description>Driver</Description>
+                        <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Driver">Driver</Key>
+                        <Value>c:\windows\system32\drivers\mouhid.sys</Value>
+                    </Property>
+                    <Property name="Driver Version" category="SysInfo|RequiredForTests|Tier1">
+                        <Description>Driver Version</Description>
+                        <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Driver Version">DriverVersion</Key>
+                        <Value>18.0.7.1, 1-15-2014</Value>
+                    </Property>
+                    <Property name="Driver Provider" category="SysInfo|RequiredForTests|Tier1">
+                        <Description>Driver Provider</Description>
+                        <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Driver Provider">DriverProvider</Key>
+                        <Value>Synaptics</Value>
+                    </Property>
+                </Property>
+                <Property name="Internal: SP_Handle" category="SysInfo|RequiredForTests|Internal|Tier3">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>INT32</DataType>
+                    <Key displayName="SP_Handle">SP_Handle</Key>
+                    <Value>0</Value>
+                </Property>
+                <Property name="Internal: SP_PnPID" category="SysInfo|RequiredForTests|Internal|Tier3">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfoperipheral</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="SP_Pn PID">SP_PnPID</Key>
+                    <Value>VEN_DLL&amp;DEV_0651&amp;Col01</Value>
+                </Property>
+                <Test name="Touchpad Test" enabled="true" index="176">
+                    <Description>Interactive test for verifying that touchpad devices and their corresponding buttons function properly.</Description>
+                    <GUID>pcdrmouse_TouchpadTest</GUID>
+                    <ModuleGUID>pcdrmouse</ModuleGUID>
+                    <Interactive>true</Interactive>
+                    <SupportedCapability icon="mouse">Mouse</SupportedCapability>
+                    <SupportedCapability icon="Unknown">SynapticsMouse</SupportedCapability>
+                    <SupportedCapability icon="Unknown">SynapticsTouchPad</SupportedCapability>
+                    <FriendlyGUID>MOUSE TouchpadTest</FriendlyGUID>
+                </Test>
+            </Device>
+            <Device index="32">
+                <LocationUID></LocationUID>
+                <DeviceUID></DeviceUID>
+                <Name>System Board</Name>
+                <Description>System Board</Description>
+                <GUID>SYSTEMBOARDSystem Board</GUID>
+                <OS_Locator>System Board</OS_Locator>
+                <HW_Locator>SYSTEMBOARD</HW_Locator>
+                <DeviceType icon="motherboard">SystemBoard</DeviceType>
+                <BusType deprecated="true" />
+                <Capability icon="motherboard">SystemBoard</Capability>
+                <Capability icon="computer_diagnostics">SystemboardAdvancedTest</Capability>
+                <ChildBusID>SMBIOS:0xFFFF</ChildBusID>
+                <Property name="Boot Mode" category="SysInfo|Tier1">
+                    <Description>Boot Mode</Description>
+                    <SourceModule>pcdrsysinfosystemboard</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Boot Mode">BootMode</Key>
+                    <Value>UEFI</Value>
+                </Property>
+                <Property name="UEFI Secure Boot Enabled" category="SysInfo|Tier1">
+                    <Description>UEFI Secure Boot Enabled</Description>
+                    <SourceModule>pcdrsysinfosystemboard</SourceModule>
+                    <DataType>BOOLEAN</DataType>
+                    <Key displayName="UEFISecure Boot Enabled">UEFISecureBootEnabled</Key>
+                    <Value>true</Value>
+                </Property>
+                <Property name="Manufacturer" category="SysInfo|Tier1">
+                    <Description>The manufacturer of the system or module board</Description>
+                    <SourceModule>pcdrsysinfosmbios2</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="t2_manufacturer">t2_manufacturer</Key>
+                    <Value>Dell Inc.</Value>
+                </Property>
+                <Property name="Product" category="SysInfo|Tier1">
+                    <Description>The product name of this system board</Description>
+                    <SourceModule>pcdrsysinfosmbios2</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="t2_product">t2_product</Key>
+                    <Value>0DXYP6</Value>
+                </Property>
+                <Property name="Version" category="SysInfo|Tier2">
+                    <Description>The version or release of this system board</Description>
+                    <SourceModule>pcdrsysinfosmbios2</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="t2_ver">t2_ver</Key>
+                    <Value>A14</Value>
+                </Property>
+                <Property name="Serial Number" category="SysInfo|Tier1">
+                    <Description>The serial number for this system board</Description>
+                    <SourceModule>pcdrsysinfosmbios2</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="t2_serial">t2_serial</Key>
+                    <Value>.69FD912.CN7620648400BS.</Value>
+                </Property>
+                <Property name="Board Type" category="SysInfo|Tier1">
+                    <Description>The type of board being described</Description>
+                    <SourceModule>pcdrsysinfosmbios2</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="t2_type">t2_type</Key>
+                    <Value>Motherboard</Value>
+                </Property>
+                <Property name="Feature Flags" category="SysInfo|Tier1">
+                    <Description>Features and characteristics that this board supports</Description>
+                    <SourceModule>pcdrsysinfosmbios2</SourceModule>
+                    <DataType>STRINGARRAY</DataType>
+                    <Key displayName="t2_features">t2_features</Key>
+                    <Value>Hosting Board</Value>
+                    <Value>Requires Daughter Board</Value>
+                    <Value>Removable</Value>
+                    <Value>Replaceable</Value>
+                    <Value>Hot Swappable</Value>
+                </Property>
+                <Test name="RTC Accuracy Test" enabled="true" index="260">
+                    <Description>Verifies that the Real-Time Clock is accurately reporting time intervals.</Description>
+                    <GUID>pcdrsystemboard_RTCAccuracyTest</GUID>
+                    <ModuleGUID>pcdrsystemboard</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="motherboard">SystemBoard</SupportedCapability>
+                    <SupportedCapability icon="computer_diagnostics">SystemboardAdvancedTest</SupportedCapability>
+                    <FriendlyGUID>SYSTEMBOARD RTCAccuracyTest</FriendlyGUID>
+                </Test>
+            </Device>
+            <Device index="39">
+                <LocationUID></LocationUID>
+                <DeviceUID></DeviceUID>
+                <Name>Integrated Webcam</Name>
+                <Description>Camera</Description>
+                <GUID>USB\VID_1BCF&amp;PID_2B8B&amp;MI_00\7&amp;1608F270&amp;0&amp;0000\{65E8773D-8F56-11D0-A3B9-00A0C9223196}\GLOBALUSB\VID_1BCF&amp;PID_2B8B&amp;MI_00\7&amp;1608F270&amp;0&amp;0000\{65E8773D-8F56-11D0-A3B9-00A0C9223196}\GLOBAL</GUID>
+                <OS_Locator>USB\VID_1BCF&amp;PID_2B8B&amp;MI_00\7&amp;1608F270&amp;0&amp;0000\{65E8773D-8F56-11D0-A3B9-00A0C9223196}\GLOBAL</OS_Locator>
+                <HW_Locator>USB\VID_1BCF&amp;PID_2B8B&amp;MI_00\7&amp;1608F270&amp;0&amp;0000\{65E8773D-8F56-11D0-A3B9-00A0C9223196}\GLOBAL</HW_Locator>
+                <DeviceType icon="webcam">Camera</DeviceType>
+                <BusType deprecated="true" />
+                <Capability icon="webcam">Camera</Capability>
+                <Capability icon="video_card">VideoCapture</Capability>
+                <Capability icon="video_card">VideoCaptureBaseFilter</Capability>
+                <Property name="Device Locator" category="SysInfo|RequiredForTests|Tier1">
+                    <Description>This is a unique key representing the device</Description>
+                    <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Device Locator">DeviceLocator</Key>
+                    <Value>USB\VID_1BCF&amp;PID_2B8B&amp;MI_00\7&amp;1608F270&amp;0&amp;0000\{65E8773D-8F56-11D0-A3B9-00A0C9223196}\GLOBAL</Value>
+                </Property>
+                <Property name="Driver Information" category="SysInfo|Group">
+                    <Description>Driver Information</Description>
+                    <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Driver Group">DriverGroup</Key>
+                    <Value></Value>
+                    <Property name="Driver Provider" category="SysInfo|Tier1">
+                        <Description>Driver Provider</Description>
+                        <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Driver Provider">DriverProvider</Key>
+                        <Value>Microsoft</Value>
+                    </Property>
+                    <Property name="Driver Version" category="SysInfo|Tier1">
+                        <Description>Driver Version</Description>
+                        <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Driver Version">DriverVersion</Key>
+                        <Value>6.3.9600.16384, 6/21/2006</Value>
+                    </Property>
+                    <Property name="Driver" category="SysInfo|Tier1">
+                        <Description>Driver</Description>
+                        <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                        <DataType>STRING</DataType>
+                        <Key displayName="Driver">Driver</Key>
+                        <Value>C:\WINDOWS\system32\drivers\usbvideo.sys</Value>
+                    </Property>
+                </Property>
+                <Property name="Internal: DigitalFriendlyName" category="RequiredForTests|Internal">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Digital Friendly Name">DigitalFriendlyName</Key>
+                    <Value>Not Available</Value>
+                </Property>
+                <Property name="Internal: AnalogFriendlyName" category="RequiredForTests|Internal">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Analog Friendly Name">AnalogFriendlyName</Key>
+                    <Value>Integrated Webcam</Value>
+                </Property>
+                <Property name="Internal: DeviceVendorID" category="RequiredForTests|Internal">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Device Vendor ID">DeviceVendorID</Key>
+                    <Value>1BCF</Value>
+                </Property>
+                <Property name="Internal: DeviceID" category="RequiredForTests|Internal">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Device ID">DeviceID</Key>
+                    <Value>2B8B</Value>
+                </Property>
+                <Property name="Device driver identifier" category="SysInfo|Tier1">
+                    <Description>This is a descriptor for the driver of this device</Description>
+                    <SourceModule>pcdrsysinfovideocapture</SourceModule>
+                    <DataType>STRING</DataType>
+                    <Key displayName="Device Driver Class Id">DeviceDriverClassId</Key>
+                    <Value>{17CCA71B-ECD7-11D0-B908-00A0C9223196}</Value>
+                </Property>
+                <Test name="Capture To Screen Test" enabled="true" index="279">
+                    <Description>Verifies if a video signal can be captured from the device and rendered to the screen.</Description>
+                    <GUID>pcdrwebcam_CaptureToScreenTest</GUID>
+                    <ModuleGUID>pcdrwebcam</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="webcam">Camera</SupportedCapability>
+                    <FriendlyGUID>WEBCAM CaptureToScreenTest</FriendlyGUID>
+                </Test>
+                <Test name="Capture To File Test" enabled="true" index="280">
+                    <Description>Verifies if a video signal can be captured from the device and rendered to an avi file.</Description>
+                    <GUID>pcdrwebcam_CaptureToFileTest</GUID>
+                    <ModuleGUID>pcdrwebcam</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="webcam">Camera</SupportedCapability>
+                    <FriendlyGUID>WEBCAM CaptureToFileTest</FriendlyGUID>
+                </Test>
+                <Test name="RGB Pixel Test" enabled="true" index="281">
+                    <Description>Verifies that a Web camera does not have too many bad pixels.</Description>
+                    <GUID>pcdrwebcam_RGBPixelTest</GUID>
+                    <ModuleGUID>pcdrwebcam</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="webcam">Camera</SupportedCapability>
+                    <FriendlyGUID>WEBCAM RGBPixelTest</FriendlyGUID>
+                </Test>
+                <Test name="RGB Line Driver Test" enabled="true" index="282">
+                    <Description>Verifies that a Web camera does not have a bad RGB line driver.</Description>
+                    <GUID>pcdrwebcam_RGBLineDriverTest</GUID>
+                    <ModuleGUID>pcdrwebcam</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="webcam">Camera</SupportedCapability>
+                    <FriendlyGUID>WEBCAM RGBLineDriverTest</FriendlyGUID>
+                </Test>
+                <Test name="RGB Channel Test" enabled="true" index="283">
+                    <Description>Verifies that a Web camera does not have a bad RGB color channel.</Description>
+                    <GUID>pcdrwebcam_RGBChannelTest</GUID>
+                    <ModuleGUID>pcdrwebcam</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="webcam">Camera</SupportedCapability>
+                    <FriendlyGUID>WEBCAM RGBChannelTest</FriendlyGUID>
+                </Test>
+                <Test name="RGB Line Amplifier Test" enabled="true" index="284">
+                    <Description>Verifies that a Web camera does not have a bad RGB line amplifier.</Description>
+                    <GUID>pcdrwebcam_RGBLineAmplifierTest</GUID>
+                    <ModuleGUID>pcdrwebcam</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="webcam">Camera</SupportedCapability>
+                    <FriendlyGUID>WEBCAM RGBLineAmplifierTest</FriendlyGUID>
+                </Test>
+                <Test name="RGB Color Depth Test" enabled="true" index="285">
+                    <Description>Verifies that a Web camera has reasonable RGB color depth.</Description>
+                    <GUID>pcdrwebcam_RGBColorDepthTest</GUID>
+                    <ModuleGUID>pcdrwebcam</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="webcam">Camera</SupportedCapability>
+                    <FriendlyGUID>WEBCAM RGBColorDepthTest</FriendlyGUID>
+                </Test>
+                <Test name="Luminance Depth Test" enabled="true" index="286">
+                    <Description>Verifies that a Web camera has reasonable luminance depth.</Description>
+                    <GUID>pcdrwebcam_LuminanceDepthTest</GUID>
+                    <ModuleGUID>pcdrwebcam</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="webcam">Camera</SupportedCapability>
+                    <FriendlyGUID>WEBCAM LuminanceDepthTest</FriendlyGUID>
+                </Test>
+                <Test name="Edge Detection Test" enabled="true" index="287">
+                    <Description>Verifies that edges can be detected in an image captured from a Web camera.</Description>
+                    <GUID>pcdrwebcam_EdgeDetectionTest</GUID>
+                    <ModuleGUID>pcdrwebcam</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="webcam">Camera</SupportedCapability>
+                    <FriendlyGUID>WEBCAM EdgeDetectionTest</FriendlyGUID>
+                </Test>
+            </Device>
+            <Device index="69">
+                <LocationUID></LocationUID>
+                <DeviceUID></DeviceUID>
+                <Name>USB Port Test</Name>
+                <Description>USB Ports</Description>
+                <GUID>USB_PORTS_TEST:0</GUID>
+                <OS_Locator></OS_Locator>
+                <HW_Locator>USB_PORTS_TEST:0</HW_Locator>
+                <DeviceType icon="usb_port">USBPorts</DeviceType>
+                <BusType deprecated="true" />
+                <Capability icon="usb_port">USBPorts</Capability>
+                <Test name="USB Ports Test" enabled="true" index="274">
+                    <Description>Verifies any USB device(s) can be recognized and operating at the highest speed possible that is supported by the port and controller.</Description>
+                    <GUID>pcdrusbports_USBPortsTest</GUID>
+                    <ModuleGUID>pcdrusbports</ModuleGUID>
+                    <Interactive>true</Interactive>
+                    <SupportedCapability icon="usb_port">USBPorts</SupportedCapability>
+                    <FriendlyGUID>USBPORTS USBPortsTest</FriendlyGUID>
+                </Test>
+            </Device>
+            <Device index="82">
+                <LocationUID></LocationUID>
+                <DeviceUID></DeviceUID>
+                <Name>Video Ports</Name>
+                <Description>Video Port</Description>
+                <GUID>Video PortsVideo Ports</GUID>
+                <OS_Locator>Video Ports</OS_Locator>
+                <HW_Locator>Video Ports</HW_Locator>
+                <DeviceType icon="dvi_port">VideoPort</DeviceType>
+                <BusType deprecated="true" />
+                <Capability icon="dvi_port">VideoPort</Capability>
+                <Property name="Internal: EnumAdvancedVideoPortsTest" category="SysInfo|RequiredForTests|Internal">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                    <DataType>BOOLEAN</DataType>
+                    <Key displayName="Enum Advanced Video Ports Test">EnumAdvancedVideoPortsTest</Key>
+                    <Value>true</Value>
+                </Property>
+                <Property name="Internal: InstalledDirectShowAPI" category="SysInfo|RequiredForTests|Internal">
+                    <Description>[N/A]</Description>
+                    <SourceModule>pcdrsysinfosoftware</SourceModule>
+                    <DataType>BOOLEAN</DataType>
+                    <Key displayName="Installed Direct Show API">InstalledDirectShowAPI</Key>
+                    <Value>true</Value>
+                </Property>
+                <Test name="Video Ports Test" enabled="true" index="275">
+                    <Description>This test enumerates all active video ports and their associated monitors and allows the user to verify that resolutions and refresh rates are correct.</Description>
+                    <GUID>pcdrvideoports_VideoPortsTest</GUID>
+                    <ModuleGUID>pcdrvideoports</ModuleGUID>
+                    <Interactive>true</Interactive>
+                    <SupportedCapability icon="dvi_port">VideoPort</SupportedCapability>
+                    <FriendlyGUID>VIDEOPORTS VideoPortsTest</FriendlyGUID>
+                </Test>
+            </Device>
+        </Device>
+        <AllModules>
+            <Module name="2D/3D Video Test" guid="pcdr2d3dvideo" version="6.5.000000001.00">
+                <BuildDate>00000000</BuildDate>
+                <Company>PC-Doctor, Inc.</Company>
+                <Path>C:\Program Files\Dell\SupportAssistAgent\PCDr\SupportAssist\6.0.7033.2521\pcdr2d3dvideo.p5x</Path>
+                <SupportedCapabilities>VideoCard</SupportedCapabilities>
+                <Test name="Shader Rendering DX12 Test" enabled="false" index="1">
+                    <Description>Stresses the GPU by using shaders to render a scene simultaneously on several monitors.</Description>
+                    <GUID>pcdr2d3dvideo_ShaderRenderingDX12Test</GUID>
+                    <ModuleGUID>pcdr2d3dvideo</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="video_card">VideoCard</SupportedCapability>
+                    <FriendlyGUID>2D3DVIDEO ShaderRenderingDX12Test</FriendlyGUID>
+                    <Parameter name="Animation Length" type="UINT32">
+                        <Key>AnimationLength</Key>
+                        <Description>Specifies (in milliseconds) the length of the test animation.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>40000</Value>
+                    </Parameter>
+                </Test>
+                <Test name="Stereoscopic Rendering Test" enabled="true" index="2">
+                    <Description>Stresses system when rendering a 3D scene using the system&apos;s stereoscopic hardware.</Description>
+                    <GUID>pcdr2d3dvideo_Stereo3DRenderingTest</GUID>
+                    <ModuleGUID>pcdr2d3dvideo</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="video_card">VideoCard</SupportedCapability>
+                    <FriendlyGUID>2D3DVIDEO Stereo3DRenderingTest</FriendlyGUID>
+                    <Parameter name="Resource Directory" type="STRING">
+                        <Key>ResourceDirectory</Key>
+                        <Description>Contains the path to the main resource directory for pcdr2d3dvideo</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>Resources\pcdr2d3dvideo</Value>
+                    </Parameter>
+                    <Parameter name="Cycle Count" type="UINT32">
+                        <Key>CycleCount</Key>
+                        <Description>Specifies the number of times the test has to heat up and cool down the GPU.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>1</Value>
+                    </Parameter>
+                    <Parameter name="List Effect Names" type="BOOLEAN">
+                        <Key>ListEffectNames</Key>
+                        <Description>Toggles show or hide applied effect names on D3D9-based tests.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>false</Value>
+                    </Parameter>
+                    <Parameter name="Animation File" type="STRING">
+                        <Key>AnimationFile</Key>
+                        <Description>Specifies the resource file this test will use for rendering animations.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>spaceship.scene</Value>
+                    </Parameter>
+                    <Parameter name="Animation Length" type="UINT32">
+                        <Key>AnimationLength</Key>
+                        <Description>Specifies (in milliseconds) the length of the test animation.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>40000</Value>
+                    </Parameter>
+                    <Parameter name="Portal File" type="STRING">
+                        <Key>PortalFile</Key>
+                        <Description>Specifies the texture file name for the portal.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>portalEffect.tga</Value>
+                    </Parameter>
+                    <Parameter name="Texture Directory" type="STRING">
+                        <Key>TextureDirectory</Key>
+                        <Description>Contains the path to the texture resource directory for pcdr2d3dvideo.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>Resources\pcdr2d3dvideo\Textures</Value>
+                    </Parameter>
+                </Test>
+                <Test name="GPU Selection Test" enabled="false" index="3">
+                    <Description>A test to determine if a hybrid video system allows the user to manually select the active GPU for rendering. This test is available only on computers with a hybrid video system. A failure can be caused by an external application removing the active gpu setting from the driver active configuration. If the test return fail, the results of all other rendering tests are unreliable.</Description>
+                    <GUID>pcdr2d3dvideo_GPUSelectTest</GUID>
+                    <ModuleGUID>pcdr2d3dvideo</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="video_card">VideoCard</SupportedCapability>
+                    <FriendlyGUID>2D3DVIDEO GPUSelectTest</FriendlyGUID>
+                </Test>
+                <Test name="Shader Rendering DX11 Test" enabled="true" index="4">
+                    <Description>Stresses the GPU by using shaders to render a scene simultaneously on several monitors.</Description>
+                    <GUID>pcdr2d3dvideo_ShaderRenderingDX11Test</GUID>
+                    <ModuleGUID>pcdr2d3dvideo</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="video_card">VideoCard</SupportedCapability>
+                    <FriendlyGUID>2D3DVIDEO ShaderRenderingDX11Test</FriendlyGUID>
+                    <Parameter name="Resource Directory" type="STRING">
+                        <Key>ResourceDirectory</Key>
+                        <Description>Contains the path to the main resource directory for pcdr2d3dvideo</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>Resources\pcdr2d3dvideo</Value>
+                    </Parameter>
+                    <Parameter name="Cycle Count" type="UINT32">
+                        <Key>CycleCount</Key>
+                        <Description>Specifies the number of times the test has to heat up and cool down the GPU.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>1</Value>
+                    </Parameter>
+                    <Parameter name="Animation File" type="STRING">
+                        <Key>AnimationFile</Key>
+                        <Description>Specifies the resource file this test will use for rendering animations.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>spaceship.scene</Value>
+                    </Parameter>
+                    <Parameter name="Animation Length" type="UINT32">
+                        <Key>AnimationLength</Key>
+                        <Description>Specifies (in milliseconds) the length of the test animation.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>40000</Value>
+                    </Parameter>
+                    <Parameter name="Texture Directory" type="STRING">
+                        <Key>TextureDirectory</Key>
+                        <Description>Contains the path to the texture resource directory for pcdr2d3dvideo.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>Resources\pcdr2d3dvideo\Textures</Value>
+                    </Parameter>
+                    <Parameter name="Windows Per Monitor" type="UINT32">
+                        <Key>WindowsPerMonitor</Key>
+                        <Description>The number of windows on each monitor that will be created for rendering.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>4</Value>
+                    </Parameter>
+                </Test>
+                <Test name="Multiple Rendering DX9 Test" enabled="true" index="5">
+                    <Description>Renders a test animation using multiple renderers in DirectX 9.</Description>
+                    <GUID>pcdr2d3dvideo_MultiRenderingDX9Test</GUID>
+                    <ModuleGUID>pcdr2d3dvideo</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="video_card">VideoCard</SupportedCapability>
+                    <FriendlyGUID>2D3DVIDEO MultiRenderingDX9Test</FriendlyGUID>
+                    <Parameter name="Clean Stencil" type="BOOLEAN">
+                        <Key>CleanStencil</Key>
+                        <Description>Specifies the test to clear the stencil buffer at refresh.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>true</Value>
+                    </Parameter>
+                    <Parameter name="Animation Time Step" type="UINT32">
+                        <Key>AnimationTimestep</Key>
+                        <Description>Specifies (in milliseconds) the length of the test animation frame intervals.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>50</Value>
+                    </Parameter>
+                    <Parameter name="Resource Directory" type="STRING">
+                        <Key>ResourceDirectory</Key>
+                        <Description>Contains the path to the main resource directory for pcdr2d3dvideo</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>Resources\pcdr2d3dvideo</Value>
+                    </Parameter>
+                    <Parameter name="List Effect Names" type="BOOLEAN">
+                        <Key>ListEffectNames</Key>
+                        <Description>Toggles show or hide applied effect names on D3D9-based tests.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>false</Value>
+                    </Parameter>
+                    <Parameter name="Animation File" type="STRING">
+                        <Key>AnimationFile</Key>
+                        <Description>Specifies the resource file this test will use for rendering animations.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>spaceship.scene</Value>
+                    </Parameter>
+                    <Parameter name="Incompatible Device List" type="STRINGARRAY">
+                        <Key>IncompatibleDeviceList</Key>
+                        <Description>Specifies vendor and device id numbers that will force a test result of NOT SUPPORTED.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>5333:8A22</Value>
+                    </Parameter>
+                    <Parameter name="Skinned Mesh External Components" type="STRINGARRAY">
+                        <Key>SkinnedMeshExternalComponents</Key>
+                        <Description>Specifie the components in the animation file attached to the skinned mesh.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>0:helmet</Value>
+                        <Value>0:LeftEye</Value>
+                        <Value>0:RightEye</Value>
+                        <Value>0:HelmetLightMount</Value>
+                    </Parameter>
+                    <Parameter name="Animation Length" type="UINT32">
+                        <Key>AnimationLength</Key>
+                        <Description>Specifies (in milliseconds) the length of the test animation.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>40000</Value>
+                    </Parameter>
+                    <Parameter name="Portal File" type="STRING">
+                        <Key>PortalFile</Key>
+                        <Description>Specifies the texture file name for the portal.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>portalEffect.tga</Value>
+                    </Parameter>
+                    <Parameter name="Line Anti Aliasing" type="BOOLEAN">
+                        <Key>LineAntiAliasing</Key>
+                        <Description>Specifies whether line anti-aliasing should be turned on during testing.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>false</Value>
+                    </Parameter>
+                    <Parameter name="Texture Directory" type="STRING">
+                        <Key>TextureDirectory</Key>
+                        <Description>Contains the path to the texture resource directory for pcdr2d3dvideo.</Description>
+                        <ValueSource>SETTINGSFILE</ValueSource>
+                        <Value>Resources\pcdr2d3dvideo\Textures</Value>
+                    </Parameter>
+                </Test>
+                <Test name="Thermal Cycle Test" enabled="false" index="6">
+                    <Description>Repeatedly renders a test animation to generate temperature stress on the GPU, reporting the peak temperature of the GPU.</Description>
+                    <GUID>pcdr2d3dvideo_ThermalCycleTest</GUID>
+                    <ModuleGUID>pcdr2d3dvideo</ModuleGUID>
+                    <Interactive>false</Interactive>
+                    <SupportedCapability icon="video_card">VideoCard</SupportedCapability>
+                    <FriendlyGUID>2D3DVIDEO ThermalCycleTest</FriendlyGUID>
+                    <Parameter name="Animatio

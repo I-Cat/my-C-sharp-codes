@@ -1,0 +1,20 @@
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\bin\Debug\ADO.exe.config
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\bin\Debug\ADO.exe
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\bin\Debug\ADO.pdb
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\obj\Debug\ADO.csprojResolveAssemblyReference.cache
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\obj\Debug\ADO.Form1.resources
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\obj\Debug\ADO.csproj.GenerateResource.Cache
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\obj\Debug\ADO.exe
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\obj\Debug\ADO.pdb
+D:\NTU\3rd Semester\OOP CSC-2071\Class Program\ADO\ADO\obj\Debug\ADO.Add_New_Student.resources
+C:\Users\ASIF ALI\Desktop\ADO\ADO\bin\Debug\ADO.exe.config
+C:\Users\ASIF ALI\Desktop\ADO\ADO\obj\Debug\ADO.exe
+C:\Users\ASIF ALI\Desktop\ADO\ADO\obj\Debug\ADO.pdb
+C:\Users\ASIF ALI\Desktop\ADO\ADO\bin\Debug\ADO.exe
+C:\Users\ASIF ALI\Desktop\ADO\ADO\bin\Debug\ADO.pdb
+C:\Users\ASIF ALI\Desktop\ADO\ADO\obj\Debug\ADO.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Desktop\ADO\ADO\obj\Debug\ADO.Add_New_Student.resources
+C:\Users\ASIF ALI\Desktop\ADO\ADO\obj\Debug\ADO.Form1.resources
+C:\Users\ASIF ALI\Desktop\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+C:\Users\ASIF ALI\Desktop\ADO\ADO\obj\Debug\ADO.csproj.GenerateResource.Cache

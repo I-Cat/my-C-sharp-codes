@@ -1,0 +1,9 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Transparent\Transparent\bin\Debug\Transparent.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Transparent\Transparent\bin\Debug\Transparent.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Transparent\Transparent\bin\Debug\Transparent.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Transparent\Transparent\obj\Debug\Transparent.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Transparent\Transparent\obj\Debug\Transparent.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Transparent\Transparent\obj\Debug\Transparent.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Transparent\Transparent\obj\Debug\Transparent.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Transparent\Transparent\obj\Debug\Transparent.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Transparent\Transparent\obj\Debug\Transparent.pdb

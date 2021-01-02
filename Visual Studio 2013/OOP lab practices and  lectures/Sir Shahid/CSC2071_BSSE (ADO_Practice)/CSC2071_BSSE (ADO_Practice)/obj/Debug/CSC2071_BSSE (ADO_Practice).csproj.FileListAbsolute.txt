@@ -1,0 +1,15 @@
+c:\users\shahid\documents\visual studio 2013\Projects\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\bin\Debug\CSC2071_BSSE (ADO_Practice).exe.config
+c:\users\shahid\documents\visual studio 2013\Projects\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\bin\Debug\CSC2071_BSSE (ADO_Practice).exe
+c:\users\shahid\documents\visual studio 2013\Projects\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\bin\Debug\CSC2071_BSSE (ADO_Practice).pdb
+c:\users\shahid\documents\visual studio 2013\Projects\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE (ADO_Practice).csprojResolveAssemblyReference.cache
+c:\users\shahid\documents\visual studio 2013\Projects\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE__ADO_Practice_.Form1.resources
+c:\users\shahid\documents\visual studio 2013\Projects\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE__ADO_Practice_.Properties.Resources.resources
+c:\users\shahid\documents\visual studio 2013\Projects\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE (ADO_Practice).csproj.GenerateResource.Cache
+c:\users\shahid\documents\visual studio 2013\Projects\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE (ADO_Practice).exe
+c:\users\shahid\documents\visual studio 2013\Projects\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE (ADO_Practice).pdb
+C:\Users\ASIF ALI\Desktop\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\bin\Debug\CSC2071_BSSE (ADO_Practice).exe.config
+C:\Users\ASIF ALI\Desktop\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE (ADO_Practice).exe
+C:\Users\ASIF ALI\Desktop\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE (ADO_Practice).pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\New folder\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\bin\Debug\CSC2071_BSSE (ADO_Practice).exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\New folder\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE (ADO_Practice).exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\New folder\CSC2071_BSSE (ADO_Practice)\CSC2071_BSSE (ADO_Practice)\obj\Debug\CSC2071_BSSE (ADO_Practice).pdb

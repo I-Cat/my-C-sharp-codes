@@ -1,0 +1,13 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\obj\Debug\Medical_Store.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\obj\Debug\Medical_Store.ManageEmployeeUserContol.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\obj\Debug\Medical_Store.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\obj\Debug\Medical_Store.SellMedicineUserControl.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\obj\Debug\Medical_Store.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\bin\Debug\Medical_Store.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\bin\Debug\Medical_Store.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\bin\Debug\Medical_Store.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\obj\Debug\Medical_Store.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\obj\Debug\Medical_Store.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\obj\Debug\Medical_Store.BuyMedicineUserControl1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Medical_Store\Medical_Store\obj\Debug\Medical_Store.csprojResolveAssemblyReference.cache

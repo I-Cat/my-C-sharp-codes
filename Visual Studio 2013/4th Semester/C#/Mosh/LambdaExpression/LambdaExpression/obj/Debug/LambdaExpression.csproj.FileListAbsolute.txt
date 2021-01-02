@@ -1,0 +1,12 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Mosh\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Mosh\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Mosh\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Mosh\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Mosh\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Mosh\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csprojResolveAssemblyReference.cache

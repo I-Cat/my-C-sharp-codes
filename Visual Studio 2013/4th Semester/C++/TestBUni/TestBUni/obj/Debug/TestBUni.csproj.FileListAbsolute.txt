@@ -1,0 +1,10 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\bin\Debug\TestBUni.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\bin\Debug\TestBUni.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\bin\Debug\TestBUni.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\obj\Debug\TestBUni.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\obj\Debug\TestBUni.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\obj\Debug\TestBUni.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\obj\Debug\TestBUni.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\obj\Debug\TestBUni.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\TestBUni\TestBUni\obj\Debug\TestBUni.pdb

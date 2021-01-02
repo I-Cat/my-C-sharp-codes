@@ -1,0 +1,6 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\Delegates\Delegates\obj\Debug\Delegates.pdb

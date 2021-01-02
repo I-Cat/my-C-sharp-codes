@@ -1,0 +1,10 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\bin\Debug\ui.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\bin\Debug\ui.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\bin\Debug\ui.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\obj\Debug\ui.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\obj\Debug\ui.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\obj\Debug\ui.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\obj\Debug\ui.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\obj\Debug\ui.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C++\ui\ui\obj\Debug\ui.pdb

@@ -1,0 +1,5 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\FileHandling\FileHandling\obj\Debug\FileHandling.pdb

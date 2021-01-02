@@ -1,0 +1,9 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\Lab Activities\lab8Q1\lab8Q1\bin\Debug\lab8Q1.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\Lab Activities\lab8Q1\lab8Q1\bin\Debug\lab8Q1.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\Lab Activities\lab8Q1\lab8Q1\bin\Debug\lab8Q1.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\Lab Activities\lab8Q1\lab8Q1\obj\Debug\lab8Q1.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\Lab Activities\lab8Q1\lab8Q1\obj\Debug\lab8Q1.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\Lab Activities\lab8Q1\lab8Q1\obj\Debug\lab8Q1.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\Lab Activities\lab8Q1\lab8Q1\obj\Debug\lab8Q1.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\Lab Activities\lab8Q1\lab8Q1\obj\Debug\lab8Q1.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\Lab Activities\lab8Q1\lab8Q1\obj\Debug\lab8Q1.pdb

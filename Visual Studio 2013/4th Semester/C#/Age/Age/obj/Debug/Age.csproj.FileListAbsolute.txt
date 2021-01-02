@@ -1,0 +1,6 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Age\Age\bin\Debug\Age.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Age\Age\bin\Debug\Age.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Age\Age\bin\Debug\Age.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Age\Age\obj\Debug\Age.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Age\Age\obj\Debug\Age.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Age\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache

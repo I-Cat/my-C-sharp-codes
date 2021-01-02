@@ -1,0 +1,25 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\bin\Debug\lecture.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\bin\Debug\lecture.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\bin\Debug\lecture.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\obj\Debug\lecture.AddnewStudent.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\obj\Debug\lecture.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\obj\Debug\lecture.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\obj\Debug\lecture.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\obj\Debug\lecture.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\obj\Debug\lecture.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\obj\Debug\lecture.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\lecture\lecture\obj\Debug\lecture.UpdateStudent.resources
+C:\Users\ASIF ALI\Desktop\lecture\lecture\bin\Debug\lecture.exe.config
+C:\Users\ASIF ALI\Desktop\lecture\lecture\obj\Debug\lecture.exe
+C:\Users\ASIF ALI\Desktop\lecture\lecture\obj\Debug\lecture.pdb
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\bin\Debug\lecture.exe.config
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\obj\Debug\lecture.exe
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\obj\Debug\lecture.pdb
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\bin\Debug\lecture.exe
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\bin\Debug\lecture.pdb
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\obj\Debug\lecture.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\obj\Debug\lecture.AddnewStudent.resources
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\obj\Debug\lecture.Form1.resources
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\obj\Debug\lecture.Properties.Resources.resources
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\obj\Debug\lecture.UpdateStudent.resources
+C:\Users\ASIF ALI\Desktop\lecture Data Connection\lecture\obj\Debug\lecture.csproj.GenerateResource.Cache

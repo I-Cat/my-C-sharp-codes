@@ -1,0 +1,6 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\CollectionExamples\CollectionExamples\bin\Debug\CollectionExamples.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\CollectionExamples\CollectionExamples\bin\Debug\CollectionExamples.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\CollectionExamples\CollectionExamples\bin\Debug\CollectionExamples.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\CollectionExamples\CollectionExamples\obj\Debug\CollectionExamples.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\CollectionExamples\CollectionExamples\obj\Debug\CollectionExamples.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\Uexercises\CollectionExamples\CollectionExamples\obj\Debug\CollectionExamples.pdb

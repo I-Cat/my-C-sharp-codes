@@ -1,0 +1,11 @@
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\bin\Debug\Panal_Width.exe.config
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\bin\Debug\Panal_Width.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\bin\Debug\Panal_Width.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\obj\Debug\Panal_Width.csprojResolveAssemblyReference.cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\obj\Debug\Panal_Width.Form1.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\obj\Debug\Panal_Width.Properties.Resources.resources
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\obj\Debug\Panal_Width.csproj.GenerateResource.Cache
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\obj\Debug\Panal_Width.exe
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\obj\Debug\Panal_Width.pdb
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ASIF ALI\Documents\Visual Studio 2013\4th Semester\C#\Panal_Width\Panal_Width\obj\Debug\Panal_Width.Form2.resources
